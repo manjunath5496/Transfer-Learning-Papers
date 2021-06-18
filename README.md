@@ -54,7 +54,7 @@ Federated Learning of Large CNNs at the Edge</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Transfer-Learning-Papers/blob/master/tl(28).pdf" style="text-decoration:none;">Estimating Generalization under Distribution Shifts via Domain-Invariant Representations</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Transfer-Learning-Papers/blob/master/tl(29).pdf" style="text-decoration:none;">Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Transfer-Learning-Papers/blob/master/tl(29).pdf" style="text-decoration:none;">A Comprehensive Survey on Transfer Learning </a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Transfer-Learning-Papers/blob/master/tl(30).pdf" style="text-decoration:none;">Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective</a></li>
  
